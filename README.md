@@ -1,6 +1,6 @@
 ## 📌 Internship Task - Data Analyst Role
 
-# Final Project: Retail Business Performance & Profitability Analysi
+# Final Project: Retail Business Performance & Profitability Analysis
 
 ## 🎯 Objective 
 Analyze transactional retail data to uncover profit-draining categories, optimize inventory turnover, and identify seasonal product behavior.
