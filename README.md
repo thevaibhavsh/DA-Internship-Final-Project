@@ -10,7 +10,7 @@ Analyze transactional retail data to uncover profit-draining categories, optimiz
 ## 🛠️ Tools & Technologies
 - **SQL**: Data cleaning & aggregations
 - **Python**: Data preprocessing, analysis & visualizations (Pandas, Seaborn)
-- **Tableau**: Interactive dashboards for KPIs & insights
+- **Tableau/ Power BI**: Interactive dashboards for KPIs & insights
 
 ---
 
@@ -38,10 +38,13 @@ Analyze transactional retail data to uncover profit-draining categories, optimiz
 ---
 
 ## 📋 Deliverables
-- 📄 SQL queries: `queries/retail_analysis_queries.sql`
-- 🐍 Python script: `scripts/retail_analysis.py`
-- 📊 Tableau Dashboard: `dashboards/tableau_dashboard.twbx`
-- 📄 Project Report: `reports/Retail_Business_Performance_Report.pdf`
+- 📄 SQL queries: `SQL Queries.sql`
+- 🐍 Python script: `Python Code.py`
+- 📊 Tableau/ Power BI Dashboard: `BI Dashboard.pbix`
+- 📄 Project Report: [Project Report.pdf](https://github.com/user-attachments/files/21051923/Project.Report.pdf)
+- Dataset: [Dataset.xlsx](https://github.com/user-attachments/files/21051961/Dataset.xlsx)
+- Dashboard Screenshot:
+![Dashboard](https://github.com/user-attachments/assets/260a5cf2-d850-4dec-93e9-db5c73ed853b)
 
 ---
 
